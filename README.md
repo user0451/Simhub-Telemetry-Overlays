@@ -7,6 +7,8 @@ A set of racing tools using Simhub overlays.
 An overlay that shows the current position of the pedal inputs in your racing simulator. It can be used to analyze pedal inputs and improve driving technique. As my example above shows, I need to work on braking...
 
 ## Steering Wheel
+![Wheel Tracer](https://github.com/user0451/Simhub-Telemetry-Overlays/blob/main/media/wheel.gif)
+
 An overlay that shows the current position of the steering wheel. Modelled on the Moza CS2 Pro and the FSR2 wheels.
 
 ## These overlays have two modes:
