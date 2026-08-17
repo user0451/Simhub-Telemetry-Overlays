@@ -15,7 +15,7 @@ An overlay that shows the current position of the steering wheel. Modelled on th
 - **Game Input**: Shows the current position of the pedals and steering wheel as they are being reported by the game telemetry. Only available when a game is running and Simhub is receiving telemetry from that game.
 - **Direct Input**: Shows the current position of the pedals and steering wheel directly from the hardware. This mode has a few requirements:
   - You must have the Simhub Control Mapper plugin enabled
-  - You need to tell the overlays which inputs to use. 
+  - You need to tell the overlays about your specific hardware. 
 
 I've made use of Simhub variables to make this a little easier. I shall use my settings for a Moza R5 wheelbase as an example. The following variables are available in the overlay:
 
