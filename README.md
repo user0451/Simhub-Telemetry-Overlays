@@ -1,5 +1,5 @@
 ## Simhub Telemetry Overlays
-A simple set of racing training tools using Simhub overlays. Add these overlays to Simhub and you you use them for any supported racing simulator.
+A simple set of racing training tools using Simhub overlays. Add these overlays to Simhub and you can use them for any supported racing title.
 
 ## Pedal Tracer
 ![Pedal Tracer](https://github.com/user0451/Simhub-Telemetry-Overlays/blob/main/media/tracer.gif)
