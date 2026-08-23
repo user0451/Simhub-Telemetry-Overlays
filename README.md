@@ -56,9 +56,9 @@ The Pedal tracer overlay works slightly differently. Our variables are not attac
 Clicking the Edit Variables button will allow you to add the following variables:
 | Variable | Description | NCalc Example Value |
 |----------|-------------|---------|
-| **accel** | The Simhub property value representing the accelerator axis | [JoystickPlugin.MOZA_R5_Base_Y] |
+| **accel** | The Simhub property value representing the accelerator axis | [JoystickPlugin.MOZA_R5_Base_Z] |
 | **brake** | The Simhub property value representing the brake axis | [JoystickPlugin.MOZA_R5_Base_RZ] |
-| **clutch** | The Simhub property value representing the clutch axis | [JoystickPlugin.MOZA_R5_Base_Z] |
+| **clutch** | The Simhub property value representing the clutch axis | [JoystickPlugin.MOZA_R5_Base_Y] |
 | **max** | The maximum value your pedal can report when you fully press one of them. | 65535 |
 
 So, to use the Direct Input mode, you need to set all four of these variables to match your pedal's axes on BOTH widgets.
