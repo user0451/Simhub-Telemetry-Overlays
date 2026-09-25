@@ -3,6 +3,8 @@ A simple set of racing training tools using Simhub overlays. Add these overlays 
 
 One of the many great features of Simhub is the ability to replay your race data to analyse and diagnose your performance. These overlays main function is to help you with this understanding. You can have them on your screen while racing or only during replays. As with all Simhub overlays, the size and location of the overlays is entirely up to you.
 
+[Download latest releases](https://github.com/user0451/Simhub-Telemetry-Overlays/releases/latest)
+
 ## Pedal Tracer
 ![Pedal Tracer](https://github.com/user0451/Simhub-Telemetry-Overlays/blob/main/media/tracer.gif)
 
